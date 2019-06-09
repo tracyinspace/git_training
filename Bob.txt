@@ -1,6 +1,5 @@
 Hi!! I'm Bob. I'm new here!
 
-Bob's new text!
+Bob 2nd line of text!
 
-Hi!! I'm Bob. I've been here for awhile now!
-
+Tracy practice line

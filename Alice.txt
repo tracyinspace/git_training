@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added  a second line to Alice!
-Adde a third line to Alice!
+Added a third line to Alice!
+Added a line to test remote!
